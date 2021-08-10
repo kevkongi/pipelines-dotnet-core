@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/KevinKongTest/Space%20Game%20-%20web/_apis/build/status/kevkongi.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/KevinKongTest/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
+[![Build](https://dev.azure.com/KevinKongTest/Space%20Game%20-%20web/_apis/build/status/kevkongi.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/KevinKongTest/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
